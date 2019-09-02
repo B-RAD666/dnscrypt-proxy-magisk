@@ -1,3 +1,4 @@
+[![Board Status](https://dev.azure.com/BrandonAddison/4b6a6331-e75f-4863-85cd-f6b936420bfa/434e823a-0e9b-44e7-876a-9b98fc0fc5c9/_apis/work/boardbadge/aef5a2e0-6ff4-4780-bc07-7dc5159f37f5)](https://dev.azure.com/BrandonAddison/4b6a6331-e75f-4863-85cd-f6b936420bfa/_boards/board/t/434e823a-0e9b-44e7-876a-9b98fc0fc5c9/Microsoft.RequirementCategory)
 # DNSCrypt for Android
 
 ### DNSCrypt
